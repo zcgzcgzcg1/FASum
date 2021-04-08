@@ -3,7 +3,7 @@ The prediction results for our NAACL 2021 paper "Enhancing Factual Consistency o
 
 This includes the produced summary from all the systems (UniLM, BottomUp, TConvS2S, FASum) and the corresponding corrected summaries by the model FC, on the test set of CNN/DailyMail and XSUM. 
 
-Please cite our paper:
+If you use our prediction results, please cite our paper:
 
 **Enhancing Factual Consistency of Abstractive Summarization**
 
@@ -15,3 +15,4 @@ _North American Chapter of the Association for Computational Linguistics (**NAAC
 #Summaries in CNN's test set: 11,490
 
 #Summaries in XSUM's test set: 11,301
+
