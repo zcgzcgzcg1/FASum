@@ -1,7 +1,7 @@
 # Prediction results
-The prediction results for our NAACL 2021 paper "Enhancing Factual Consistency of Abstractive Summarization" are available at https://drive.google.com/file/d/1blmmJvniToN1yedoWUH3u0SNtXnMVDAs/view?usp=sharing.
+The prediction results for our NAACL 2021 paper "Enhancing Factual Consistency of Abstractive Summarization" are available at https://drive.google.com/file/d/1pDk6b0KlS_er0_vr32-Y01cLasTtNZMW/view?usp=sharing.
 
-This includes the produced summary from all the systems (UniLM, BottomUp, TConvS2S, FASum) and the corresponding corrected summaries by the model FC, on the test set of CNN/DailyMail and XSUM. 
+This includes the produced summary from all the systems (UniLM, BottomUp, TConvS2S, FASum) and the corresponding corrected summaries by the model FC, on the test set of CNN/DailyMail and XSUM. It also contains the reference summary and the corresponding articles in the test set. 
 
 If you use our prediction results, please cite our paper:
 
